@@ -11,8 +11,6 @@ This projet is an ambitious project just to understand some concept in NLP (just
 
 ### Visualisation of the dataset
 
-To better understand our training dataset, we use t-SNE for dimensionality reduction and K-Means for clustering.
-
 <p align="center">
   <img src="images/attention_research.jpg" alt="train" width="200"/>
 </p>
