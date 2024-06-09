@@ -9,8 +9,6 @@ This projet is an ambitious project just to understand some concept in NLP (just
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1FXRLuExHk9YJD1QhShWWO1qM-LYmWJhq?usp=sharing)
 
 
-### Visualisation of the dataset
-
 <p align="center">
   <img src="images/attention_research.jpg" alt="train" width="200"/>
 </p>
