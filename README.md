@@ -1,7 +1,10 @@
 # Fine-Tuning-LLMs
-This projet is focused on the understanding of FFT for LLMs
+This projet is focused LLM wEKn
 
-NER - Name Entity Recognition
+Following the step of the project :
+
+- NER - Name Entity Recognition
+- 
 
 ![Git Badge](https://img.shields.io/badge/-Git-blue?style=flat&logo=Git&logoColor=white)
 [![Python Badge](https://img.shields.io/badge/-Python-blue?style=flat&logo=Python&logoColor=white)](https://www.python.org)
